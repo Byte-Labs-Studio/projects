@@ -1,0 +1,32 @@
+[
+            {
+                href: "https://github.com/Byte-Labs-Studio/bl_vehiclemenu",
+                title: "Vehicle Menu",
+                image: 'https://raw.githubusercontent.com/Byte-Labs-Studio/bl_vehiclemenu/main/preview.png',
+            },
+            {
+                href: "https://github.com/Byte-Labs-Studio/bl_appearance",
+                title: "Appearance",
+                image: 'https://raw.githubusercontent.com/Byte-Labs-Studio/bl_appearance/main/preview.png',
+            },
+            {
+                href: "https://store.byte-labs.net/package/6171009",
+                title: "Treasure",
+                image: 'https://gist.github.com/user-attachments/assets/18938882-d74c-4f34-9928-d24ba4f620dd',
+            },
+            {
+                href: "https://store.byte-labs.net/package/6195395",
+                title: "Redzone",
+                image: 'https://gist.github.com/user-attachments/assets/9be51595-ebf0-42d3-ba70-145227fd46c5',
+            },
+            {
+                href: "https://github.com/Byte-Labs-Studio/bl_customs",
+                title: "Customs",
+                image: 'https://raw.githubusercontent.com/Byte-Labs-Studio/bl_customs/main/preview.png',
+            },
+            {
+                href: "https://github.com/Byte-Labs-Studio/bl_ui",
+                title: "UI",
+                image: 'https://raw.githubusercontent.com/Byte-Labs-Studio/bl_ui/main/preview.png',
+            },
+        ]
